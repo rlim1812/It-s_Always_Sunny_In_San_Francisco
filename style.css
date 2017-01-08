@@ -1,0 +1,96 @@
+h1 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+ul{
+  margin: 0 auto;
+  width: 650px;
+}
+
+.spacing {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+#grad {
+  background: #FFDB6F;
+  background: -webkit-linear-gradient(top right, #FFA500, #ffdb6f);/* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(left, #FFA500, #ffdb6f); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(right,  #FFA500, #ffdb6f); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(right,  #FFA500, #ffdb6f); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to right, #FFA500, #ffdb6f); /* Standard syntax */
+}
+
+#dark_blue_div {
+  background: #76C4E2; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(left top,#76C4E2,#8176B5); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(bottom right, #76C4E2, #8176B5); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(bottom right, #76C4E2,#8176B5); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to bottom right, #76C4E2,#8176B5); /* Standard syntax */
+  width: 55%;
+  height: 80px;
+  margin: 0 auto;
+  padding-top: 1px;
+}
+
+#light_blue_div {
+  background: #85CBA8; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(left top,#85CBA8,#76C4E2); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(bottom right, #85CBA8,#76C4E2); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(bottom right, #85CBA8,#76C4E2); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to bottom right, #85CBA8,#76C4E2);
+  width: 55%;
+  height: 110px;
+  margin: 0 auto;
+  padding-top: 1px;
+  margin-bottom: 5px;
+
+}
+
+.white-nav-text {
+  color: white;
+}
+
+.center {
+  margin: 0 auto;
+}
+
+textarea {
+  display: block;
+  width: 50px;
+  color: black;
+}
+
+#form_div {
+  display: block;
+  text-align: center;
+}
+
+#form {
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  width: 55%;
+}
+
+#btn {
+  display: block;
+  margin-top: 5px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#map {
+  max-width: 75%;
+  margin-left: 200px;
+  height: 500px;
+}
